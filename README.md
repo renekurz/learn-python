@@ -134,4 +134,4 @@ If this helps you, consider **starring the repo**.
 
 ## 📄 License
 
-MIT License
+[MIT License](LICENSE)
