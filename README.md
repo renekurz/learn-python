@@ -85,8 +85,7 @@ learn-python/
 ├── day-01/
 ├── day-02/
 ├── ...
-├── day-100/
-└── projects/
+└── day-100/
 ```
 
 ---
@@ -107,7 +106,7 @@ learn-python/
 ## ▶️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/learn-python.git
+git clone https://github.com/renekurz/learn-python.git
 cd learn-python
 ```
 
