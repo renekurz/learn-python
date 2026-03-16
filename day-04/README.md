@@ -48,13 +48,14 @@ By the end of Day 04, you should be able to:
 Make sure Python is installed, then run:
 
 ```bash id="0r7n3f"
-python filename.py
+python3 filename.py
 ```
 
 Example:
 
 ```bash id="7a5l0o"
-python 08-rock-paper-scissors.py
+cd day-04
+python3 08-rock-paper-scissors.py
 ```
 
 ---
