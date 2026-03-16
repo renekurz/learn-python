@@ -1,7 +1,7 @@
 # 🐍 Day 02 – Data Types & Mathematical Operations
 
 Welcome to **Day 02** of the Python learning journey!
-Today focuses on understanding Python’s core data types, performing calculations, and working with type conversion and number manipulation.
+Today focuses on understanding Python’s core data types and performing calculations.
 
 ---
 
@@ -9,11 +9,10 @@ Today focuses on understanding Python’s core data types, performing calculatio
 
 - Primitive data types in Python
 - Type errors and debugging
-- Checking data types with `type()`
-- Type conversion (casting)
-- Mathematical operations in Python
-- Number manipulation & formatting
-- Building real-world mini projects
+- Type checking with `type()`
+- Type conversion
+- Mathematical operations
+- Number manipulation
 
 ---
 
@@ -23,12 +22,12 @@ Today focuses on understanding Python’s core data types, performing calculatio
 | ------------------------------- | ------------------------------------------------------- |
 | `01-primitive-data-types.py`    | Introduction to integers, floats, strings, and booleans |
 | `02-type-error.py`              | Understanding and fixing type errors                    |
-| `03-type-checking.py`           | Using `type()` to inspect variables                     |
+| `03-type-checking.py`           | Checking variable types with `type()`                   |
 | `04-type-conversion.py`         | Converting between data types                           |
 | `05-mathematical-operations.py` | Arithmetic operators and calculations                   |
-| `06-bmi-calculator.py`          | BMI calculator using math & input                       |
-| `07-number-manipulation.py`     | Rounding, formatting, and numeric tricks                |
-| `08-tip-calculator.py`          | Mini project combining math + user input                |
+| `06-bmi-calculator.py`          | BMI calculator project                                  |
+| `07-number-manipulation.py`     | Rounding and formatting numbers                         |
+| `08-tip-calculator.py`          | Mini project combining math + input                     |
 
 ---
 
@@ -36,11 +35,11 @@ Today focuses on understanding Python’s core data types, performing calculatio
 
 By the end of Day 02, you should be able to:
 
-- Understand and use Python’s primitive data types
+- Understand Python’s primitive data types
 - Convert between data types safely
-- Perform mathematical calculations in Python
+- Perform mathematical calculations
 - Format and manipulate numbers
-- Build small real-world logic programs
+- Build simple logic-driven programs
 
 ---
 
@@ -49,26 +48,22 @@ By the end of Day 02, you should be able to:
 Make sure Python is installed, then run:
 
 ```bash
-python filename.py
+python3 filename.py
 ```
 
 Example:
 
 ```bash
 cd day-02
-python 06-bmi-calculator.py
+python3 08-tip-calculator.py
 ```
 
 ---
 
 ## 🧠 Mini Project
 
-The **Tip Calculator** combines input handling, math operations, and formatting.
-Try extending it with:
-
-- Bill splitting for groups
-- Currency formatting
-- Error handling for invalid input
+The **Tip Calculator** combines input handling and mathematical logic.
+Try extending it with better formatting or additional user options.
 
 ---
 

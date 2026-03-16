@@ -8,26 +8,27 @@ Today introduces randomisation in Python and working with lists to store and man
 ## 📚 Topics Covered
 
 - Using the `random` module
-- Generating random numbers
+- Generating random outcomes
 - Understanding Python lists
 - Accessing and modifying list elements
-- List operations and common methods
+- Handling index errors
+- Working with nested lists
 - Combining randomness with program logic
 
 ---
 
 ## 📂 Files Overview
 
-| File                        | Description                              |
-| --------------------------- | ---------------------------------------- |
-| `01-random-module.py`       | Introduction to Python’s `random` module |
-| `02-random-integers.py`     | Generating random whole numbers          |
-| `03-random-floats.py`       | Working with random decimal numbers      |
-| `04-python-lists.py`        | Creating and accessing list elements     |
-| `05-list-operations.py`     | Modifying lists and common list methods  |
-| `06-who-will-pay.py`        | Random name picker mini exercise         |
-| `07-treasure-map.py`        | Working with nested lists                |
-| `08-rock-paper-scissors.py` | Mini project using lists + randomisation |
+| File                        | Description                                     |
+| --------------------------- | ----------------------------------------------- |
+| `my_module.py`              | Custom module used for import practice          |
+| `01-random-module.py`       | Introduction to Python’s `random` module        |
+| `02-heads-or-tails.py`      | Simple random coin toss program                 |
+| `03-lists.py`               | Creating and working with Python lists          |
+| `04-banker-roulette.py`     | Randomly selecting a person from a list         |
+| `05-index-errors.py`        | Understanding index positions and common errors |
+| `06-nested-lists.py`        | Working with nested lists                       |
+| `07-rock-paper-scissors.py` | Mini project using lists + randomisation        |
 
 ---
 
@@ -35,11 +36,11 @@ Today introduces randomisation in Python and working with lists to store and man
 
 By the end of Day 04, you should be able to:
 
-- Use the `random` module to generate randomness
+- Use the `random` module to generate random results
 - Create and manipulate Python lists
-- Store multiple values in structured collections
-- Combine lists and logic to build interactive programs
-- Develop simple games using randomness
+- Access list items safely using indexes
+- Understand nested lists
+- Build simple interactive games using randomness and lists
 
 ---
 
@@ -47,15 +48,15 @@ By the end of Day 04, you should be able to:
 
 Make sure Python is installed, then run:
 
-```bash id="0r7n3f"
+```bash
 python3 filename.py
 ```
 
 Example:
 
-```bash id="7a5l0o"
+```bash
 cd day-04
-python3 08-rock-paper-scissors.py
+python3 07-rock-paper-scissors.py
 ```
 
 ---
