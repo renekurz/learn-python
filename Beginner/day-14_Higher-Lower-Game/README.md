@@ -51,7 +51,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-14_Beginner_Higher-Lower-Game
+cd day-14_Higher-Lower-Game
 python3 01-higher-lower-game.py
 ```
 

@@ -54,7 +54,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-12_Beginner_Scopes
+cd day-12_Scopes
 python3 05-number-guessing-game.py
 ```
 

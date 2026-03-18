@@ -54,7 +54,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-01_Beginner_Working-with-Variables
+cd day-01_Working-with-Variables
 python3 08-band-name-generator.py
 ```
 

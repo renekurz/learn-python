@@ -54,7 +54,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-03_Beginner_Control-Flow-and-Logical-Operators
+cd day-03_Control-Flow-and-Logical-Operators
 python3 08-treasure-island.py
 ```
 
