@@ -52,7 +52,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-10
+cd day-10_Beginner_Functions-with-Outputs
 python3 05-calculator.py
 ```
 

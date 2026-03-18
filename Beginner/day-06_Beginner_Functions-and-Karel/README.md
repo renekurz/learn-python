@@ -46,7 +46,7 @@ python3 filename.py
 Example:
 
 ```bash id="d6run2"
-cd day-06
+cd day-06_Beginner_Functions-and-Karel
 python3 02-while-loops.py
 ```
 

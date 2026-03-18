@@ -52,7 +52,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-09
+cd day-09_Beginner_Dictionaries-and-Nesting
 python3 04-auction-program.py
 ```
 

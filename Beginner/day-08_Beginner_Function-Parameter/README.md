@@ -55,7 +55,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-08
+cd day-08_Beginner_Function-Parameter
 python3 08-ceaser-cipher-reorganising.py
 ```
 

@@ -51,7 +51,7 @@ python3 filename.py
 Example:
 
 ```bash
-cd day-05
+cd day-05_Beginner_Loops
 python3 05-password-generator.py
 ```
 
