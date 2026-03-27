@@ -1,0 +1,4 @@
+Amazon | jon@doe.com | testpassword1234!
+Ebay | jon@doe.com | password
+GitHub | jon@doe.com | githubpassword1234!
+SAP BTP | jon@doe.com | sfA$G#z((1u6BODe
