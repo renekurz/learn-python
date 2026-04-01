@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog</title>
+  </head>
+  <body>
+    {% if name %}
+    <h1>Hello {{ name.title() }}!</h1>
+    {% else %}
+    <h1>Hello, World!</h1>
+    {% endif %}
+    <br /><br />
+    {% for blog_post in posts: %}
+    <h1>{{ blog_post["title"] }}</h1>
+    <h2>{{ blog_post["subtitle"] }}</h2>
+    <p>{{ blog_post["body"] }}</p>
+    {% endfor %}
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Form</title>
+  </head>
+  <body>
+    <form action="{{ url_for('login') }}" method="post">
+      <label for="name_input">Name</label>
+      <input id="name_input" placeholder="name" type="text" name="username" />
+
+      <label for="password_input">Password</label>
+      <input
+        id="password_input"
+        type="password"
+        placeholder="password"
+        name="password"
+      />
+
+      <button type="submit">Ok</button>
+    </form>
+  </body>
+</html>
