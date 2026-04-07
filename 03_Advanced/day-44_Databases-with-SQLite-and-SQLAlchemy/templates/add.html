@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Add Book</title>
+  </head>
+  <body>
+    <form action="/submit" method="POST">
+      <label>Book Name</label><br />
+      <input
+        type="text"
+        name="book_name"
+        placeholder="Harry Potter"
+      /><br /><br />
+
+      <label>Book Author</label><br />
+      <input type="text" name="book_author" placeholder="Jon Doe" /><br /><br />
+
+      <label>Rating</label><br />
+      <input type="number" name="book_rating" placeholder="0-10" />
+      {% if error %}
+      <p style="color: red">{{ error }}</p>
+      {% endif %}
+      <br /><br />
+
+      <button type="submit">Add Book</button>
+    </form>
+  </body>
+</html>

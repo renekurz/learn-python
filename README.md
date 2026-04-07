@@ -4,12 +4,4 @@ A complete **100‑day Python learning journey** covering beginner → intermedi
 
 # Complete README will be created when finished
 
-Noch machen:
-
-- 62
-- 63
-- 66
-- 68
-- (Anschließend FastAPI)
-
-- Heute gemacht: 54, 55, 56, 57, 60, 61
+Heute gemacht: 3
