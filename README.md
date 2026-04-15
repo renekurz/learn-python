@@ -9,10 +9,10 @@ The course covers core Python fundamentals, GUI programming, APIs, databases, we
 
 | Section | Days | Focus |
 | ------- | ---- | ----- |
-| [01 Beginner](#-01-beginner-days-1--14) | 1 – 14 | Python fundamentals, logic, functions, mini games |
-| [02 Intermediate](#-02-intermediate-days-15--40) | 15 – 40 | OOP, GUIs, APIs, data, web scraping, Flask intro |
-| [03 Advanced](#-03-advanced-days-41--46) | 41 – 46 | Flask forms, databases, REST APIs, authentication |
-| [04 FastAPI](#-04-fastapi-days-47--55) | 47 – 55 | FastAPI, SQLAlchemy, JWT auth, testing, full-stack |
+| [01 Beginner](#01_Beginner) | 1 – 14 | Python fundamentals, logic, functions, mini games |
+| [02 Intermediate](#02_Intermediate) | 15 – 40 | OOP, GUIs, APIs, data, web scraping, Flask intro |
+| [03 Advanced](#03_Advanced) | 41 – 46 | Flask forms, databases, REST APIs, authentication |
+| [04 FastAPI](#04_FastAPI) | 47 – 55 | FastAPI, SQLAlchemy, JWT auth, testing, full-stack |
 
 ---
 
