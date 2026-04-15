@@ -4,4 +4,4 @@ A complete **100‑day Python learning journey** covering beginner → intermedi
 
 # Complete README will be created when finished
 
-Heute gemacht: 3
+Heute gemacht: 15, 16, 17
